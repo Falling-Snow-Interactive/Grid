@@ -1,2 +1,5 @@
-# UnityPackage
-Template repo for Falling Snow Interactive packages for Unity
+# Grid
+Grid package for Unity developed by Falling Snow Interactive.
+
+---
+Copyright Falling Snow Interactive 2025
