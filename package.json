@@ -5,12 +5,17 @@
   "description": "Grid package for Unity developed by Falling Snow Interactive.",
   "unity": "6000.2",
   "unityRelease": "6f2",
-  "keywords": ["Grid", "Square", "Hexagon"],
+  "keywords": [
+    "Grid",
+    "Square",
+    "Hexagon"
+  ],
   "author": {
     "name": "Kira Dinan",
     "email": "kira.dinan@fallingsnowinteractive.ca"
   },
   "hideInEditor": false,
   "dependencies": {
+    "com.fallingsnowinteractive.general": "0.0.1"
   }
 }

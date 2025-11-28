@@ -1,0 +1,20 @@
+{
+    "name": "Fsi.Grid.Editor",
+    "rootNamespace": "Fsi.Grid",
+    "references": [
+        "GUID:28baa350ed5a94df3a9f583a2fa67b25",
+        "GUID:0aede76063b894034a434ed76d1c99ba",
+        "GUID:d01539a91a51f41e884d80a7bdf27f86",
+        "GUID:73b03f131db0b4da29c295fef1f7cfde",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

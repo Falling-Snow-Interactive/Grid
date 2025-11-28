@@ -1,0 +1,16 @@
+{
+    "name": "Fsi.Grid.Runtime",
+    "rootNamespace": "Fsi.Grid",
+    "references": [
+        "GUID:28baa350ed5a94df3a9f583a2fa67b25"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
